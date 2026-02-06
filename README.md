@@ -1,6 +1,6 @@
 # Vily Codes
 
-Vily Codes is a marketplace where developers sell website source codes,
+Vily Codes is a marketplace where developers buy website source codes,
 scripts, and templates.
 
 Website:
